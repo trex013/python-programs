@@ -1,0 +1,12 @@
+----------------------------------------
+Name: Obisike
+Mat-No: U2014/5575013
+Department: Maths
+No of years of study: 2
+----------------------------------------
+Course 	 Grade 	 Credit Unit 	 Grade Point 	 Quality Point 	
+askjdcs	a	3		5		15	
+sve	b	2		4		8	
+CGPA: 0
+This are all data stored in output
+
